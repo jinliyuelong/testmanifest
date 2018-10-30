@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.211.108.18:8080/dist/PlatformHand.ipa</string>
+					<string>http://219.145.61.20:808/dist/PlatformHand.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://10.211.108.18:8080/dist/icon-57.png</string>
+					<string>http://219.145.61.20:808/dist/icon-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://10.211.108.18:8080/dist/icon-512.png</string>
+					<string>http://219.145.61.20:808/dist/icon-512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
